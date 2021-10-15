@@ -14,3 +14,6 @@ https://devhelper.xyz/site-store.html  <br>
 https://devhelper.wapaxo.com/  <br>
 <b> Wapkiz Music Theme</b><br>
 https://devhelper.wapaxo.com/page-stote/  <br>
+
+<b> Wapka Theme for Wapka.org</b><br>
+https://devhelper.wapaxo.com/page-search?to-search=wapka <br>
